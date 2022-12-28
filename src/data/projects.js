@@ -1,7 +1,7 @@
 const projects = [
   {
     name: "Lift the World",
-    liveSiteUrl: "https://lift-the-world.herokuapp.com/",
+    liveSiteUrl: "https://lift-theworld.onrender.com/",
     img: {
       src: "https://media.giphy.com/media/z3CYMbpdbB6k1ncGPA/giphy.gif",
       alt: "Gif of Lift the World App",
@@ -16,7 +16,7 @@ const projects = [
   },
   {
     name: "Baked by Fullstack",
-    liveSiteUrl: "https://baked-byfullstack.herokuapp.com/",
+    liveSiteUrl: "https://baked-by-fullstack-5h8k.onrender.com/",
     img: {
       src: "https://media.giphy.com/media/yu5h1wCpgITAc70KCJ/giphy.gif",
       alt: "Gif of Baked By Fullstack",
