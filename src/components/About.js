@@ -6,7 +6,7 @@ const About = () => {
       <h1 className="title">
         About Me
         <img
-          src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/samsung/320/girl_1f467.png"
+          src="https://em-content.zobj.net/thumbs/120/samsung/349/girl_1f467.png"
           alt="Emoji of girl"
           className="girl-emoji"
         />
