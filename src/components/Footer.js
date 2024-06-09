@@ -18,7 +18,7 @@ const Footer = () => {
             />
           </a>
           <a
-            href="https://www.linkedin.com/in/cherryxu-rdcdn/"
+            href="https://www.linkedin.com/in/cherryxu-rd/"
             target="_blank"
             rel="noreferrer"
             className="footer-link"
