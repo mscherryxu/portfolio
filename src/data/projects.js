@@ -16,7 +16,7 @@ const projects = [
   },
   {
     name: "Baked by Fullstack",
-    liveSiteUrl: "https://baked-by-fullstack-5h8k.onrender.com/",
+    liveSiteUrl: "https://baked-by-fullstack.koyeb.app/",
     img: {
       src: "https://media.giphy.com/media/yu5h1wCpgITAc70KCJ/giphy.gif",
       alt: "Gif of Baked By Fullstack",
